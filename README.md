@@ -26,4 +26,5 @@ The Knights Game on a 8x8 grid Chess like board. Each knight can move in four di
 ## How to Run
 
    ```
+   git clone git@github.com:MirzaBaig715/BattlingKnights.git .
    python3 main.py
